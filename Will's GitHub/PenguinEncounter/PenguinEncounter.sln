@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PenguinEncounter", "PenguinEncounter.csproj", "{AB0F713A-D881-466C-BF59-1042E005038D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB0F713A-D881-466C-BF59-1042E005038D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0F713A-D881-466C-BF59-1042E005038D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0F713A-D881-466C-BF59-1042E005038D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0F713A-D881-466C-BF59-1042E005038D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {188FF65C-2016-4720-AE52-FA1DB5E1730E}
+	EndGlobalSection
+EndGlobal
