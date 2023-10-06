@@ -1,0 +1,4 @@
+Yellow Duck|3
+Rainbow Horse|2
+
+TOTAL SALES $5.40
